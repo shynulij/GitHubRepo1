@@ -1,5 +1,5 @@
 Example of a Java File
-100
+10
 200
-300
+30
 400
